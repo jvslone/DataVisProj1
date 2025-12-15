@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>American Household Finances</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Interactive and static visualizations exploring income, spending, inflation, and inequality in the U.S." name="description"/>
+<link href="style_fixed.css" media="screen" rel="stylesheet"/>
+</head>
+<body class="dataviz">
+<div class="page-wrapper">
+<section class="intro" id="top">
+<header class="site-header" role="banner">
+<h1>American Household Finances</h1>
+<h2>Income, spending, inflation, and inequality (1959–2025)</h2>
+</header>
+<div class="summary" role="article">
+<p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. This page collects interactive and
+          static visualizations to help interpret long-run changes in U.S. household finances. Each section
+          includes a short narrative (placeholder text for now).
+        </p>
+</div>
+<div class="preamble" role="article">
+<h3>How to use this page</h3>
+<p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Use the sidebar to jump between
+          sections. For interactive charts, hover for details and use the controls to change the year or play
+          through time.
+        </p>
+</div>
+</section>
+<main class="main supporting" id="content" role="main">
+<section class="viz-section" id="sankey">
+<h3>Where the median household income goes</h3>
+<p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. In this visualization, the left bar represents
+          median household income and the flows show estimated spending by category in the selected year.
+        </p>
+<div class="viz-embed">
+<iframe class="viz-frame viz-sankey" scrolling="no" src="animated_sankey_responsive.html" title="Animated Sankey: Income to spending"></iframe>
+</div>
+<p class="note">Figure 1. Animated Sankey diagram (Plotly HTML export).</p>
+</section>
+<section class="viz-section" id="ranks">
+<h3>How spending ranks shift over time</h3>
+<p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. This “ranked lines” view emphasizes relative
+          position: categories move up/down as their share of spending changes across decades.
+        </p>
+<div class="viz-embed">
+<iframe class="viz-frame viz-bump" scrolling="no" src="bump_plot_responsive.html" title="Bump plot: ranked categories over time"></iframe>
+</div>
+<p class="note">Figure 2. Ranked category chart (Plotly HTML export).</p>
+</section>
+<section class="viz-section" id="inequality">
+<h3>Income distribution across percentile groups</h3>
+<p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Each stacked bar shows the share of total income
+          captured by broad percentile groups, allowing you to compare inequality across decade years.
+        </p>
+<div class="viz-embed">
+<iframe class="viz-frame viz-income" scrolling="no" src="income_dist_ipums_responsive.html" title="Income shares by percentile group"></iframe>
+</div>
+<p class="note">Figure 3. Income shares by percentile group (Plotly HTML export).</p>
+</section>
+<section class="viz-section" id="food-cpi">
+<h3>Grocery prices over time</h3>
+<p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. This chart tracks the grocery CPI index over time,
+          highlighting how the level (not just the annual rate) has changed across decades.
+        </p>
+<div class="viz-embed">
+<img alt="Yearly Average Grocery CPI (1952-2025)" src="FoodCPI.png"/>
+</div>
+<p class="note">Figure 4. Yearly average grocery CPI (Matplotlib PNG export).</p>
+</section>
+<section class="viz-section" id="inflation">
+<h3>Inflation: annual rates and seasonal patterns</h3>
+<p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. The top panel summarizes annual inflation rates
+          (relative to a 2% target line) and the bottom panel shows average monthly inflation patterns across years.
+        </p>
+<div class="viz-embed">
+<img alt="Annual Average Inflation Rate and Average Monthly Inflation (1968-2025)" src="HouseholdGroceryInflation.png"/>
+</div>
+<p class="note">Figure 5. Grocery inflation summaries (Matplotlib PNG export).</p>
+</section>
+<section class="viz-section" id="tableau">
+<h3>Average annual salary by wage group</h3>
+<p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. This section is intended to embed a Tableau
+          dashboard. If you publish the workbook to Tableau Public, you can replace the placeholder below with
+          Tableau’s embed iframe snippet.
+        </p>
+<div class="viz-embed">
+<div class="tableau-placeholder">
+<p><strong>Tableau placeholder</strong></p>
+<p>
+              Workbook: <code>Average Annual Salary by Wage Group (1951-2023).twbx</code>
+</p>
+<p>
+              Lorem ipsum dolor sit amet. Replace this block with an embed iframe after publishing.
+            </p>
+</div>
+</div>
+<p class="note">Figure 6. Tableau dashboard (placeholder).</p>
+</section>
+<section class="viz-section" id="methods">
+<h3>Methods and data notes</h3>
+<p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Add notes here about data sources, definitions
+          (nominal vs real dollars, CPI adjustments), and any category-mapping assumptions used to construct the
+          spending breakdown.
+        </p>
+</section>
+</main>
+<aside class="sidebar" role="complementary">
+<div class="wrapper">
+<h3>On this page</h3>
+<nav aria-label="Table of contents">
+<ul class="toc">
+<li><a href="#sankey">Household Expenses (Sankey)</a></li>
+<li><a href="#ranks">Expense Rankings (Bump Plot)</a></li>
+<li><a href="#inequality">Income Percentiles (Stacked Bar)</a></li>
+<li><a href="#food-cpi">Grocery Prices (Line Plot)</a></li>
+<li><a href="#inflation">Inflation Trends (Line & Bar)</a></li>
+<li><a href="#tableau">Tableau dashboard</a></li>
+<li><a href="#methods">Methods &amp; notes</a></li>
+</ul>
+</nav>
+<hr class="sidebar-divider"/>
+<div class="sidebar-box">
+<h4>Notes</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Add dataset links and citations here.</p>
+</div>
+<a class="back-to-top" href="#top">Back to top</a>
+</div>
+</aside>
+</div>
+</body>
+</html>

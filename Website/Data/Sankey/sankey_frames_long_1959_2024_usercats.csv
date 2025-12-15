@@ -1,0 +1,661 @@
+Year,link_order,Source,Target,Value,Value_CPI
+1959,0,Median family income (All races),Housing,902.7137640715164,7950.613565414814
+1959,1,Median family income (All races),Food,1389.3094156970328,12236.284331346767
+1959,2,Median family income (All races),Transportation,730.636514993851,6435.050420963012
+1959,3,Median family income (All races),Education,48.391388389619394,426.2051209283259
+1959,4,Median family income (All races),Child Care,4.95358370384385,43.62848043389146
+1959,5,Median family income (All races),Insurance,460.1366821177436,4052.634503200581
+1959,6,Median family income (All races),Recreation,209.929461104279,1848.9449121811244
+1959,7,Median family income (All races),Clothing,433.2848421782865,3816.1380506416926
+1959,8,Median family income (All races),Furniture,265.06797212499606,2334.57503232113
+1959,9,Median family income (All races),Other,972.5763756188314,8565.925582568663
+1960,0,Median family income (All races),Housing,962.5170602089496,8350.94872878797
+1960,1,Median family income (All races),Food,1409.1575578235402,12226.07162268253
+1960,2,Median family income (All races),Transportation,756.3361314089015,6562.090705960505
+1960,3,Median family income (All races),Education,52.1306842200616,452.2939791050184
+1960,4,Median family income (All races),Child Care,5.192704873482699,45.05272057491395
+1960,5,Median family income (All races),Insurance,495.27543933812433,4297.087263723654
+1960,6,Median family income (All races),Recreation,217.9578476961169,1891.0364152424663
+1960,7,Median family income (All races),Clothing,440.1920405821608,3819.175070958391
+1960,8,Median family income (All races),Furniture,261.73947702155925,2270.8926867564464
+1960,9,Median family income (All races),Other,1019.5010568271032,8845.350806208105
+1961,0,Median family income (All races),Housing,1012.7592649535104,8700.723449740097
+1961,1,Median family income (All races),Food,1422.703228640457,12222.596002635624
+1961,2,Median family income (All races),Transportation,722.310213046343,6205.444498133099
+1961,3,Median family income (All races),Education,55.45638772970203,476.4317739219562
+1961,4,Median family income (All races),Child Care,5.29035800571052,45.45003294531079
+1961,5,Median family income (All races),Insurance,527.2555531151622,4529.708997730434
+1961,6,Median family income (All races),Recreation,227.14949849915808,1951.465700270884
+1961,7,Median family income (All races),Clothing,446.2542938721722,3833.81849330112
+1961,8,Median family income (All races),Furniture,261.5284281426166,2246.8187715059667
+1961,9,Median family income (All races),Other,1054.292773995168,9057.542279815509
+1962,0,Median family income (All races),Housing,1059.1963636062744,9010.993912681315
+1962,1,Median family income (All races),Food,1427.7860529516738,12146.729231541522
+1962,2,Median family income (All races),Transportation,785.83840885709,6685.431863127728
+1962,3,Median family income (All races),Education,59.56706393753258,506.7600956539248
+1962,4,Median family income (All races),Child Care,4.977611796214113,42.34647241675103
+1962,5,Median family income (All races),Insurance,557.4925211759806,4742.804910676114
+1962,6,Median family income (All races),Recreation,236.52691300954055,2012.226105136572
+1962,7,Median family income (All races),Clothing,457.6445855410322,3893.3598303163367
+1962,8,Median family income (All races),Furniture,269.80955822119006,2295.3744652564974
+1962,9,Median family income (All races),Other,1097.1609209034718,9333.973113193237
+1963,0,Median family income (All races),Housing,1115.6714515685735,9355.286295758242
+1963,1,Median family income (All races),Food,1458.6643213318152,12231.398693836953
+1963,2,Median family income (All races),Transportation,847.1199261847736,7103.3900035337065
+1963,3,Median family income (All races),Education,65.26498880992578,547.2692292590992
+1963,4,Median family income (All races),Child Care,5.414213357414897,45.400028793173405
+1963,5,Median family income (All races),Insurance,596.0705406572697,4998.25513369194
+1963,6,Median family income (All races),Recreation,253.3884565550277,2124.748779562082
+1963,7,Median family income (All races),Clothing,468.1086340256782,3925.250827803735
+1963,8,Median family income (All races),Furniture,286.41352232125325,2401.6752391796563
+1963,9,Median family income (All races),Other,1152.883945188268,9667.325768581411
+1964,0,Median family income (All races),Housing,1154.1886190067994,9584.562211420443
+1964,1,Median family income (All races),Food,1509.6324494924895,12536.223187671689
+1964,2,Median family income (All races),Transportation,876.8275706715502,7281.312829979155
+1964,3,Median family income (All races),Education,70.70803054803326,587.1705079000175
+1964,4,Median family income (All races),Child Care,6.830843675115432,56.724390695318434
+1964,5,Median family income (All races),Insurance,661.2000720840072,5490.708468896725
+1964,6,Median family income (All races),Recreation,275.95328664108007,2291.559108885815
+1964,7,Median family income (All races),Clothing,497.2758211732159,4129.455936215395
+1964,8,Median family income (All races),Furniture,312.2191475579108,2592.71647119562
+1964,9,Median family income (All races),Other,1204.1641591497985,9999.566887139825
+1965,0,Median family income (All races),Housing,1203.30454903572,9807.009908053087
+1965,1,Median family income (All races),Food,1596.0142288581924,13007.619200267283
+1965,2,Median family income (All races),Transportation,956.6065426109492,7796.405198510971
+1965,3,Median family income (All races),Education,79.28008253324695,646.1378007237462
+1965,4,Median family income (All races),Child Care,7.836917825691408,63.871387195156366
+1965,5,Median family income (All races),Insurance,703.9876583900148,5737.544951949667
+1965,6,Median family income (All races),Recreation,299.3576967444969,2439.784591837426
+1965,7,Median family income (All races),Clothing,512.9176338061236,4180.31189259842
+1965,8,Median family income (All races),Furniture,324.4860905743691,2644.5826269321155
+1965,9,Median family income (All races),Other,1273.2085996211958,10376.732441932128
+1966,0,Median family income (All races),Housing,1274.7864368778896,10105.881325807062
+1966,1,Median family income (All races),Food,1730.2197662522217,13716.33327707384
+1966,2,Median family income (All races),Transportation,998.943154990738,7919.131145047394
+1966,3,Median family income (All races),Education,90.17953446310732,714.8990975560458
+1966,4,Median family income (All races),Child Care,9.479366309731434,75.14776451859584
+1966,5,Median family income (All races),Insurance,773.321681367064,6130.514816041874
+1966,6,Median family income (All races),Recreation,345.981175990115,2742.768988100075
+1966,7,Median family income (All races),Clothing,562.044811728646,4455.615468443633
+1966,8,Median family income (All races),Furniture,355.3663764093524,2817.170251646632
+1966,9,Median family income (All races),Other,1391.6776956111344,11032.537865764849
+1967,0,Median family income (All races),Housing,1351.8595419244698,10386.46654232906
+1967,1,Median family income (All races),Food,1777.2825878010992,13655.03261395147
+1967,2,Median family income (All races),Transportation,1029.4730434096134,7909.540148218321
+1967,3,Median family income (All races),Education,100.34360006710284,770.9495051165911
+1967,4,Median family income (All races),Child Care,11.147549266309444,85.64769037962442
+1967,5,Median family income (All races),Insurance,846.1647473282217,6501.164924953373
+1967,6,Median family income (All races),Recreation,376.198474397308,2890.368966912381
+1967,7,Median family income (All races),Clothing,587.8610004243268,4516.592458825503
+1967,8,Median family income (All races),Furniture,370.7499531266961,2848.5074553223403
+1967,9,Median family income (All races),Other,1481.919502254853,11385.729693991336
+1968,0,Median family income (All races),Housing,1437.7262468303966,10624.717016370598
+1968,1,Median family income (All races),Food,1913.2789897495209,14139.025342460836
+1968,2,Median family income (All races),Transportation,1154.9027317851062,8534.666967165422
+1968,3,Median family income (All races),Education,111.79628339307392,826.1683176140159
+1968,4,Median family income (All races),Child Care,12.323633568704071,91.07096679189443
+1968,5,Median family income (All races),Insurance,957.5850818529879,7076.500506418222
+1968,6,Median family income (All races),Recreation,419.11205131704656,3097.2147536508805
+1968,7,Median family income (All races),Clothing,639.5888315028051,4726.525899161717
+1968,8,Median family income (All races),Furniture,404.4166995898372,2988.6169215518667
+1968,9,Median family income (All races),Other,1581.269450410522,11685.49330881455
+1969,0,Median family income (All races),Housing,1578.034563704466,11186.597188054451
+1969,1,Median family income (All races),Food,2075.7509968706463,14714.880648864637
+1969,2,Median family income (All races),Transportation,1256.2925341139323,8905.786256355206
+1969,3,Median family income (All races),Education,126.09337203195948,893.8687361154597
+1969,4,Median family income (All races),Child Care,14.20484262945237,100.69732074965334
+1969,5,Median family income (All races),Insurance,1089.3817264954716,7722.5650430141195
+1969,6,Median family income (All races),Recreation,463.4466643142673,3285.347020321749
+1969,7,Median family income (All races),Clothing,692.7556420310815,4910.905309299101
+1969,8,Median family income (All races),Furniture,431.1302566600236,3056.257846163021
+1969,9,Median family income (All races),Other,1705.9094011486998,12093.094631062604
+1970,0,Median family income (All races),Housing,1669.4399372839107,11285.258317303826
+1970,1,Median family income (All races),Food,2214.233135000402,14968.009537298756
+1970,2,Median family income (All races),Transportation,1233.7945646056123,8340.336217613696
+1970,3,Median family income (All races),Education,139.99726622175766,946.368466300926
+1970,4,Median family income (All races),Child Care,15.363693012784434,103.85713225425374
+1970,5,Median family income (All races),Insurance,1186.543961566294,8020.926546718538
+1970,6,Median family income (All races),Recreation,487.0916217737396,3292.6939467222496
+1970,7,Median family income (All races),Clothing,693.4258663664871,4687.494201545018
+1970,8,Median family income (All races),Furniture,429.5121009889845,2903.4617549371915
+1970,9,Median family income (All races),Other,1797.5978531800274,12151.593879305548
+1971,0,Median family income (All races),Housing,1763.8794491504236,11430.075963979616
+1971,1,Median family income (All races),Food,2218.7530877779,14377.69250661131
+1971,2,Median family income (All races),Transportation,1370.7366662999668,8882.480166072088
+1971,3,Median family income (All races),Education,148.5127661489534,962.3742708272316
+1971,4,Median family income (All races),Child Care,17.523977157944216,113.55673439180956
+1971,5,Median family income (All races),Insurance,1276.2365612905164,8270.11213866391
+1971,6,Median family income (All races),Recreation,504.4759028312548,3269.043071019249
+1971,7,Median family income (All races),Clothing,721.055795021552,4672.497610499231
+1971,8,Median family income (All races),Furniture,440.2017181546339,2852.541357293585
+1971,9,Median family income (All races),Other,1828.624076166855,11849.626180641972
+1972,0,Median family income (All races),Housing,1899.0711485862844,11908.474027960576
+1972,1,Median family income (All races),Food,2364.816592527791,14829.016276705292
+1972,2,Median family income (All races),Transportation,1495.4289575123703,9377.361619364892
+1972,3,Median family income (All races),Education,159.32596761322287,999.0827087832762
+1972,4,Median family income (All races),Child Care,20.96165737815253,131.4439180736129
+1972,5,Median family income (All races),Insurance,1402.7952243888913,8796.48480185588
+1972,6,Median family income (All races),Recreation,563.4169234514478,3533.009179160922
+1972,7,Median family income (All races),Clothing,774.3508389604675,4855.70899286991
+1972,8,Median family income (All races),Furniture,485.2739493304069,3042.999324353352
+1972,9,Median family income (All races),Other,1954.5587402509652,12256.419150872289
+1973,0,Median family income (All races),Housing,2035.1284465762287,12031.746932289674
+1973,1,Median family income (All races),Food,2574.9831974810936,15223.386140128889
+1973,2,Median family income (All races),Transportation,1627.7198010770092,9623.133496159844
+1973,3,Median family income (All races),Education,173.39404996615954,1025.1113792190213
+1973,4,Median family income (All races),Child Care,22.339110731836502,132.06956419386162
+1973,5,Median family income (All races),Insurance,1519.215548950946,8981.652755789659
+1973,6,Median family income (All races),Recreation,619.7365741694377,3663.9031986581526
+1973,7,Median family income (All races),Clothing,840.2767854515494,4967.744248594886
+1973,8,Median family income (All races),Furniture,538.4222111055527,3183.169984992496
+1973,9,Median family income (All races),Other,2098.7842744901864,12408.082299973516
+1974,0,Median family income (All races),Housing,2199.263460841725,11840.220725229288
+1974,1,Median family income (All races),Food,2824.361373998695,15205.57344373716
+1974,2,Median family income (All races),Transportation,1670.9681442244946,8996.026171813266
+1974,3,Median family income (All races),Education,185.4920814783677,998.6376014474914
+1974,4,Median family income (All races),Child Care,23.41014082508297,126.03366513969088
+1974,5,Median family income (All races),Insurance,1666.3637800337792,8971.237559949299
+1974,6,Median family income (All races),Recreation,659.2145875821498,3549.027372680644
+1974,7,Median family income (All races),Clothing,865.7036792555267,4660.707017387313
+1974,8,Median family income (All races),Furniture,567.0856980673238,3053.0311419205923
+1974,9,Median family income (All races),Other,2238.1370536928557,12049.505300695257
+1975,0,Median family income (All races),Housing,2350.1467861242622,11677.077726683014
+1975,1,Median family income (All races),Food,3000.648820480774,14909.20044403603
+1975,2,Median family income (All races),Transportation,1766.770501490956,8778.479962582978
+1975,3,Median family income (All races),Education,198.98085191650648,988.6679792382104
+1975,4,Median family income (All races),Child Care,25.375184246812616,126.08063484731896
+1975,5,Median family income (All races),Insurance,1874.6749444712373,9314.6203326971
+1975,6,Median family income (All races),Recreation,719.1188757038738,3573.056396263344
+1975,7,Median family income (All races),Clothing,890.2216395758757,4423.207665443691
+1975,8,Median family income (All races),Furniture,567.3071097194014,2818.755515274898
+1975,9,Median family income (All races),Other,2326.755286270301,11560.853342933411
+1976,0,Median family income (All races),Housing,2537.4616656762505,11925.730595835374
+1976,1,Median family income (All races),Food,3194.8895236070425,15015.553636685238
+1976,2,Median family income (All races),Transportation,2050.950712140989,9639.19415579097
+1976,3,Median family income (All races),Education,214.76715350981905,1009.3769093098516
+1976,4,Median family income (All races),Child Care,29.524617789496247,138.76175646921664
+1976,5,Median family income (All races),Insurance,2067.427143437202,9716.631180151717
+1976,6,Median family income (All races),Recreation,791.3249325152092,3719.1213907182055
+1976,7,Median family income (All races),Clothing,941.0206105260588,4422.671064578022
+1976,8,Median family income (All races),Furniture,614.8941591020383,2889.920342678096
+1976,9,Median family income (All races),Other,2517.739481695894,11833.038967783308
+1977,0,Median family income (All races),Housing,2737.160509429149,12083.854141564789
+1977,1,Median family income (All races),Food,3335.7250809474285,14726.361569104574
+1977,2,Median family income (All races),Transportation,2249.587378088267,9931.34515198493
+1977,3,Median family income (All races),Education,222.54839380678584,982.4934712219627
+1977,4,Median family income (All races),Child Care,33.32759277065876,147.13268313742418
+1977,5,Median family income (All races),Insurance,2271.893742027905,10029.821966679096
+1977,6,Median family income (All races),Recreation,845.6562491414667,3733.3531348731335
+1977,7,Median family income (All races),Clothing,996.623206891815,4399.833120744128
+1977,8,Median family income (All races),Furniture,670.510449577111,2960.129829863223
+1977,9,Median family income (All races),Other,2646.967397319413,11685.674930826744
+1978,0,Median family income (All races),Housing,3029.759536284709,12520.945022401094
+1978,1,Median family income (All races),Food,3636.718556205229,15029.296074113448
+1978,2,Median family income (All races),Transportation,2428.8035031766526,10037.402232515758
+1978,3,Median family income (All races),Education,242.24036246741085,1001.0953755030754
+1978,4,Median family income (All races),Child Care,38.79616270534336,160.3310805680006
+1978,5,Median family income (All races),Insurance,2578.7541448350926,10657.096210798085
+1978,6,Median family income (All races),Recreation,924.6460120991215,3821.241172450452
+1978,7,Median family income (All races),Clothing,1107.799124205837,4578.149441871061
+1978,8,Median family income (All races),Furniture,731.8186650467005,3024.3526463664666
+1978,9,Median family income (All races),Other,2920.6639329739032,12070.090743412558
+1979,0,Median family income (All races),Housing,3378.262397345813,12750.828058180166
+1979,1,Median family income (All races),Food,4068.833930441145,15357.303768086693
+1979,2,Median family income (All races),Transportation,2734.0642353445774,10319.382826001942
+1979,3,Median family income (All races),Education,263.47439164385463,994.4510729018178
+1979,4,Median family income (All races),Child Care,45.64434660846968,172.2788661679555
+1979,5,Median family income (All races),Insurance,2871.56566714183,10838.364748773196
+1979,6,Median family income (All races),Recreation,1020.1400259868047,3850.390685118139
+1979,7,Median family income (All races),Clothing,1190.7935373591856,4494.500977658917
+1979,8,Median family income (All races),Furniture,806.3010811015378,3043.2823857400563
+1979,9,Median family income (All races),Other,3210.9203870267816,12119.21661137112
+1980,0,Median family income (All races),Housing,3751.5890115024727,12755.759593343564
+1980,1,Median family income (All races),Food,4333.128893159007,14733.050523029222
+1980,2,Median family income (All races),Transportation,2901.996153466079,9867.063039401552
+1980,3,Median family income (All races),Education,284.53838451287425,967.4575804536214
+1980,4,Median family income (All races),Child Care,51.95364966609869,176.64735212350493
+1980,5,Median family income (All races),Insurance,3161.644333274118,10749.891555618515
+1980,6,Median family income (All races),Recreation,1048.5223860391498,3565.075876794388
+1980,7,Median family income (All races),Clothing,1236.7297949867109,4204.9989746765095
+1980,8,Median family income (All races),Furniture,814.5928837408828,2769.693311177968
+1980,9,Median family income (All races),Other,3435.3045096526066,11680.362193381152
+1981,0,Median family income (All races),Housing,4076.044165545042,12646.841812434752
+1981,1,Median family income (All races),Food,4506.524239755816,13982.502855553215
+1981,2,Median family income (All races),Transportation,3082.4424817381623,9563.969593852173
+1981,3,Median family income (All races),Education,304.15976413052863,943.7239309579198
+1981,4,Median family income (All races),Child Care,56.62474902414797,175.69099217094953
+1981,5,Median family income (All races),Insurance,3477.4032899489184,10789.424142597201
+1981,6,Median family income (All races),Recreation,1123.0478745324986,3484.508076988507
+1981,7,Median family income (All races),Clothing,1310.2997025260722,4065.498898369193
+1981,8,Median family income (All races),Furniture,827.3279881444772,2566.9707608931144
+1981,9,Median family income (All races),Other,3626.125744654337,11250.868936182977
+1982,0,Median family income (All races),Housing,4383.368419934571,12828.321491887047
+1982,1,Median family income (All races),Food,4633.94001996856,13561.641791260954
+1982,2,Median family income (All races),Transportation,3055.285773463058,8941.568309277076
+1982,3,Median family income (All races),Education,325.7057505204571,953.2071409811244
+1982,4,Median family income (All races),Child Care,60.11184517992948,175.92271549243551
+1982,5,Median family income (All races),Insurance,3833.199112036368,11218.201583966442
+1982,6,Median family income (All races),Recreation,1173.7533457959807,3435.0946189172173
+1982,7,Median family income (All races),Clothing,1320.6167417257934,3864.903541619192
+1982,8,Median family income (All races),Furniture,812.3243722649446,2377.340256346874
+1982,9,Median family income (All races),Other,3831.694619110337,11213.798550251637
+1983,0,Median family income (All races),Housing,4537.928195283583,12744.230403597468
+1983,1,Median family income (All races),Food,4638.753807078789,13027.387115648851
+1983,2,Median family income (All races),Transportation,3213.6211132075887,9025.071824439376
+1983,3,Median family income (All races),Education,343.0268517118432,963.350023338834
+1983,4,Median family income (All races),Child Care,62.29016854363485,174.9345132045205
+1983,5,Median family income (All races),Insurance,4245.68582204194,11923.502534400126
+1983,6,Median family income (All races),Recreation,1272.132871377824,3572.633527714044
+1983,7,Median family income (All races),Clothing,1362.2176844808807,3825.6259869696983
+1983,8,Median family income (All races),Furniture,859.3716265523611,2413.4427738368386
+1983,9,Median family income (All races),Other,4044.971859721556,11359.821296850245
+1984,0,Median family income (All races),Housing,4851.661209947278,13079.109391174556
+1984,1,Median family income (All races),Food,4835.839307638605,13036.456703339032
+1984,2,Median family income (All races),Transportation,3556.8421122318787,9588.535773610343
+1984,3,Median family income (All races),Education,368.8878644165724,994.4479886371844
+1984,4,Median family income (All races),Child Care,67.75210043573509,182.6461277353812
+1984,5,Median family income (All races),Insurance,4530.589000698139,12213.5628565926
+1984,6,Median family income (All races),Recreation,1420.577770288163,3829.5938756349456
+1984,7,Median family income (All races),Clothing,1459.411420592696,3934.281638941717
+1984,8,Median family income (All races),Furniture,942.0288524037652,2539.52159416452
+1984,9,Median family income (All races),Other,4396.410361347168,11851.84405016972
+1985,0,Median family income (All races),Housing,5118.979589579885,13341.824957700996
+1985,1,Median family income (All races),Food,4880.132732239027,12719.307733989966
+1985,2,Median family income (All races),Transportation,3791.0164219652543,9880.695288683772
+1985,3,Median family income (All races),Education,387.9241898681451,1011.064128603709
+1985,4,Median family income (All races),Child Care,73.65416188998205,191.96812922298852
+1985,5,Median family income (All races),Insurance,4912.752026481571,12804.324856330843
+1985,6,Median family income (All races),Recreation,1513.7090860835365,3945.2475459206807
+1985,7,Median family income (All races),Clothing,1501.5612109863132,3913.585996910975
+1985,8,Median family income (All races),Furniture,967.5353044606554,2521.730443853836
+1985,9,Median family income (All races),Other,4592.735276445631,11970.25091878223
+1986,0,Median family income (All races),Housing,5480.869465796434,14055.658117478635
+1986,1,Median family income (All races),Food,5135.110152244517,13168.96035309142
+1986,2,Median family income (All races),Transportation,3814.5188162748,9782.311492517352
+1986,3,Median family income (All races),Education,416.8402835762876,1068.9845018393933
+1986,4,Median family income (All races),Child Care,81.48181845269237,208.95965322813672
+1986,5,Median family income (All races),Insurance,5285.488660482462,13554.605169702987
+1986,6,Median family income (All races),Recreation,1667.6673418153068,4276.723274750388
+1986,7,Median family income (All races),Clothing,1604.5273532209994,4114.801138351884
+1986,8,Median family income (All races),Furniture,1055.9463918583033,2707.9684285436124
+1986,9,Median family income (All races),Other,4917.549716278197,12611.02787049619
+1987,0,Median family income (All races),Housing,5754.088699366996,14274.67338625658
+1987,1,Median family income (All races),Food,5322.53129186267,13204.071009163994
+1987,2,Median family income (All races),Transportation,3902.580874491553,9681.475253057346
+1987,3,Median family income (All races),Education,448.4302984222172,1112.4604400316096
+1987,4,Median family income (All races),Child Care,91.37133530476268,226.67289930464693
+1987,5,Median family income (All races),Insurance,5592.829769341468,13874.62419045867
+1987,6,Median family income (All races),Recreation,1802.852286804936,4472.494065070171
+1987,7,Median family income (All races),Clothing,1688.567646172535,4188.978116094151
+1987,8,Median family income (All races),Furniture,1102.7380546432885,2735.659177857405
+1987,9,Median family income (All races),Other,5264.009743589577,13058.891462705433
+1988,0,Median family income (All races),Housing,5939.545929564218,14209.519479209084
+1988,1,Median family income (All races),Food,5496.95919113805,13150.693610113118
+1988,2,Median family income (All races),Transportation,4023.37783467447,9625.359647352623
+1988,3,Median family income (All races),Education,481.31126554498906,1151.4687965088417
+1988,4,Median family income (All races),Child Care,90.25734141498587,215.9278615212197
+1988,5,Median family income (All races),Insurance,5925.4713136168875,14175.84796090825
+1988,6,Median family income (All races),Recreation,1924.7230640610303,4604.6263797247575
+1988,7,Median family income (All races),Clothing,1722.7291253004494,4121.3845896050825
+1988,8,Median family income (All races),Furniture,1113.16098860905,2663.0794573713247
+1988,9,Median family income (All races),Other,5472.463946075871,13092.092217685704
+1989,0,Median family income (All races),Housing,6266.372306988619,14362.649885734512
+1989,1,Median family income (All races),Food,5815.089209278346,13328.300055525142
+1989,2,Median family income (All races),Transportation,4208.937247082414,9646.967832321896
+1989,3,Median family income (All races),Education,532.2468224017392,1219.920296536696
+1989,4,Median family income (All races),Child Care,110.65201783290902,253.616624328512
+1989,5,Median family income (All races),Insurance,6441.967466068435,14765.117480690613
+1989,6,Median family income (All races),Recreation,2052.260650566798,4703.822204353775
+1989,7,Median family income (All races),Clothing,1821.057329011356,4173.899595667362
+1989,8,Median family income (All races),Furniture,1161.0188556228852,2661.0782949251807
+1989,9,Median family income (All races),Other,5800.398095146498,13294.627729916308
+1990,0,Median family income (All races),Housing,6464.354892656696,14128.318500895512
+1990,1,Median family income (All races),Food,6068.729394165493,13263.650155395362
+1990,2,Median family income (All races),Transportation,4229.106556744379,9243.020440567772
+1990,3,Median family income (All races),Education,562.9651818826703,1230.4014130765238
+1990,4,Median family income (All races),Child Care,106.40283234890892,232.5511407999068
+1990,5,Median family income (All races),Insurance,6839.460839266221,14948.139871052565
+1990,6,Median family income (All races),Recreation,2109.7273322037263,4610.962763396319
+1990,7,Median family income (All races),Clothing,1812.00357627237,3960.265807717208
+1990,8,Median family income (All races),Furniture,1122.403710796079,2453.095069196748
+1990,9,Median family income (All races),Other,6034.845683663455,13189.59483790208
+1991,0,Median family income (All races),Housing,6700.939487235666,14130.89047683893
+1991,1,Median family income (All races),Food,6164.133762095059,12998.878626298958
+1991,2,Median family income (All races),Transportation,3923.976939983249,8274.85287371537
+1991,3,Median family income (All races),Education,593.8310803563074,1252.266488041306
+1991,4,Median family income (All races),Child Care,99.77842239116065,210.4119819984993
+1991,5,Median family income (All races),Insurance,7344.331680211916,15487.671064086286
+1991,6,Median family income (All races),Recreation,2140.815864488168,4514.536292976022
+1991,7,Median family income (All races),Clothing,1814.5491725644229,3826.507562288748
+1991,8,Median family income (All races),Furniture,1082.579478015311,2282.9354100940573
+1991,9,Median family income (All races),Other,6075.064112658741,12811.049223661825
+1992,0,Median family income (All races),Housing,6718.086830941506,13818.27977641291
+1992,1,Median family income (All races),Food,6018.183024943783,12378.663580428529
+1992,2,Median family income (All races),Transportation,4037.489057330701,8304.619275154917
+1992,3,Median family income (All races),Education,616.8329188464057,1268.7495804109008
+1992,4,Median family income (All races),Child Care,104.65973438372158,215.27222369000648
+1992,5,Median family income (All races),Insurance,7751.946929155731,15944.803062922998
+1992,6,Median family income (All races),Recreation,2184.977781134226,4494.231028080844
+1992,7,Median family income (All races),Clothing,1840.3054751583004,3785.2824129452383
+1992,8,Median family income (All races),Furniture,1082.8226976678588,2227.2333420447458
+1992,9,Median family income (All races),Other,6214.695550437767,12782.86571790891
+1993,0,Median family income (All races),Housing,6765.5556354200735,13576.873957768044
+1993,1,Median family income (All races),Food,5909.951805756714,11859.878934874878
+1993,2,Median family income (All races),Transportation,4128.808800750408,8285.545150207188
+1993,3,Median family income (All races),Education,622.9094084794555,1250.0322193431066
+1993,4,Median family income (All races),Child Care,107.06151684282784,214.84720520109687
+1993,5,Median family income (All races),Insurance,7993.160047295767,16040.386382790239
+1993,6,Median family income (All races),Recreation,2298.369014803288,4612.284356817096
+1993,7,Median family income (All races),Clothing,1818.559743251548,3649.420350567297
+1993,8,Median family income (All races),Furniture,1090.5978817533935,2188.5726431182143
+1993,9,Median family income (All races),Other,6225.026145646526,12492.158799312849
+1994,0,Median family income (All races),Housing,7091.863960016649,13929.532692998147
+1994,1,Median family income (All races),Food,6082.015744662373,11946.032472174653
+1994,2,Median family income (All races),Transportation,4436.149456731833,8713.293040723665
+1994,3,Median family income (All races),Education,656.1680503880033,1288.8169262004697
+1994,4,Median family income (All races),Child Care,111.74078604692048,219.47642272289667
+1994,5,Median family income (All races),Insurance,8283.20162085506,16269.506639002831
+1994,6,Median family income (All races),Recreation,2505.398790289697,4920.996025177056
+1994,7,Median family income (All races),Clothing,1868.2471274411057,3669.53026552834
+1994,8,Median family income (All races),Furniture,1154.2166866308053,2267.0625327660764
+1994,9,Median family income (All races),Other,6590.997776937555,12945.752982705866
+1995,0,Median family income (All races),Housing,7476.858940593521,14346.142542503008
+1995,1,Median family income (All races),Food,6218.303192486182,11931.30225950562
+1995,2,Median family income (All races),Transportation,4627.385683685334,8878.746428780132
+1995,3,Median family income (All races),Education,699.6822667195961,1342.5078114452333
+1995,4,Median family income (All races),Child Care,117.5438712446525,225.536036626036
+1995,5,Median family income (All races),Insurance,8730.56203514697,16751.671848772516
+1995,6,Median family income (All races),Recreation,2739.8589325332136,5257.074809726373
+1995,7,Median family income (All races),Clothing,1892.330305344588,3630.888386910867
+1995,8,Median family income (All races),Furniture,1200.8230823017818,2304.066352449024
+1995,9,Median family income (All races),Other,6906.651689944163,13252.063523281193
+1996,0,Median family income (All races),Housing,7762.50677840581,14510.198840864006
+1996,1,Median family income (All races),Food,6359.095171486993,11886.847640885971
+1996,2,Median family income (All races),Transportation,4927.3093294507335,9210.457415595023
+1996,3,Median family income (All races),Education,747.0134401200778,1396.3676763663016
+1996,4,Median family income (All races),Child Care,116.23919173183216,217.28210142401812
+1996,5,Median family income (All races),Insurance,9066.761805866458,16948.199905197656
+1996,6,Median family income (All races),Recreation,2907.697733057036,5435.263823943732
+1996,7,Median family income (All races),Clothing,1932.012799460626,3611.448039086328
+1996,8,Median family income (All races),Furniture,1238.3280809427456,2314.7659896014866
+1996,9,Median family income (All races),Other,7243.0356694776865,13539.168567035478
+1997,0,Median family income (All races),Housing,8128.8556257326,14875.24040463879
+1997,1,Median family income (All races),Food,6586.370853870202,12052.60055736266
+1997,2,Median family income (All races),Transportation,5252.858645532881,9612.365966561852
+1997,3,Median family income (All races),Education,803.2483532877352,1469.888617773114
+1997,4,Median family income (All races),Child Care,121.70478381878308,222.7112893933127
+1997,5,Median family income (All races),Insurance,9658.396334338127,17674.193516459898
+1997,6,Median family income (All races),Recreation,3082.659253827579,5641.052024729131
+1997,7,Median family income (All races),Clothing,1992.2909700385965,3645.7539043380734
+1997,8,Median family income (All races),Furniture,1291.91089060629,2364.1070728707427
+1997,9,Median family income (All races),Other,7651.704288947207,14002.086645872429
+1998,0,Median family income (All races),Housing,8473.380956529314,15297.045038766444
+1998,1,Median family income (All races),Food,6754.014807610636,12193.0631036839
+1998,2,Median family income (All races),Transportation,5389.864031601185,9730.353594063072
+1998,3,Median family income (All races),Education,854.0406326226152,1541.8046337333392
+1998,4,Median family income (All races),Child Care,125.44591618390103,226.4682586135552
+1998,5,Median family income (All races),Insurance,10164.379818581758,18349.815342146525
+1998,6,Median family income (All races),Recreation,3273.045711189999,5908.848889820541
+1998,7,Median family income (All races),Clothing,2050.246254709687,3701.321758074527
+1998,8,Median family income (All races),Furniture,1380.4220036316317,2492.084053625098
+1998,9,Median family income (All races),Other,8275.159867339271,14939.195327472991
+1999,0,Median family income (All races),Housing,8727.672897333094,15437.417737920525
+1999,1,Median family income (All races),Food,6961.581370574742,12313.573274145823
+1999,2,Median family income (All races),Transportation,5739.680899550874,10152.288332873415
+1999,3,Median family income (All races),Education,896.4970659277459,1585.7147569973256
+1999,4,Median family income (All races),Child Care,133.3551721756312,235.87725211569256
+1999,5,Median family income (All races),Insurance,10476.451020233433,18530.63843165189
+1999,6,Median family income (All races),Recreation,3488.9150855268454,6171.156992360304
+1999,7,Median family income (All races),Clothing,2106.648045644024,3726.217319317516
+1999,8,Median family income (All races),Furniture,1485.6656717206488,2627.8301058061115
+1999,9,Median family income (All races),Other,8813.532771312963,15589.285796811397
+2000,0,Median family income (All races),Housing,8984.947181092743,15362.789641001073
+2000,1,Median family income (All races),Food,7116.84766577033,12168.645111943986
+2000,2,Median family income (All races),Transportation,6064.822105341088,10369.853526853656
+2000,3,Median family income (All races),Education,938.9187193068192,1605.397392325517
+2000,4,Median family income (All races),Child Care,137.6578024609664,235.372319839626
+2000,5,Median family income (All races),Insurance,10947.479813966795,18718.399350748663
+2000,6,Median family income (All races),Recreation,3637.657843837144,6219.799751122291
+2000,7,Median family income (All races),Clothing,2105.243060660875,3599.6211922279576
+2000,8,Median family income (All races),Furniture,1560.0617894103289,2667.450416192626
+2000,9,Median family income (All races),Other,9236.364018152912,15792.6712977446
+2001,0,Median family income (All races),Housing,9357.06491177798,15645.46391395517
+2001,1,Median family income (All races),Food,7148.960010325425,11953.406000536346
+2001,2,Median family income (All races),Transportation,5967.296189135092,9977.6070884663
+2001,3,Median family income (All races),Education,976.6648581151774,1633.0307567317768
+2001,4,Median family income (All races),Child Care,144.8009125504096,242.114110928481
+2001,5,Median family income (All races),Insurance,11089.479483519539,18542.144648965957
+2001,6,Median family income (All races),Recreation,3613.6490735320376,6042.195572083524
+2001,7,Median family income (All races),Clothing,2019.4509118930544,3376.619342274401
+2001,8,Median family income (All races),Furniture,1562.1114306155912,2611.9256676855907
+2001,9,Median family income (All races),Other,9530.522218535692,15935.49289837246
+2002,0,Median family income (All races),Housing,9349.689583846162,15441.09918694408
+2002,1,Median family income (All races),Food,7112.2138332584245,11745.88720333991
+2002,2,Median family income (All races),Transportation,5774.366891773931,9536.420553655282
+2002,3,Median family income (All races),Education,983.2921505288994,1623.9161193429095
+2002,4,Median family income (All races),Child Care,148.00893897501695,244.43813741326807
+2002,5,Median family income (All races),Insurance,11405.82326623659,18836.823060628732
+2002,6,Median family income (All races),Recreation,3629.9074492501713,5994.825866747332
+2002,7,Median family income (All races),Clothing,1960.8529718771724,3238.366895311855
+2002,8,Median family income (All races),Furniture,1588.372833582417,2623.2124873502185
+2002,9,Median family income (All races),Other,9727.472080671216,16065.010489266411
+2003,0,Median family income (All races),Housing,9467.081947754668,15316.617205906045
+2003,1,Median family income (All races),Food,7229.5010831639165,11696.476410745268
+2003,2,Median family income (All races),Transportation,5836.079769541681,9442.085777487424
+2003,3,Median family income (All races),Education,1018.5311731461644,1647.8627920889826
+2003,4,Median family income (All races),Child Care,150.68833261484127,243.7958729833508
+2003,5,Median family income (All races),Insurance,11761.666040327622,19028.98247185124
+2003,6,Median family income (All races),Recreation,3731.690186569801,6037.432699342144
+2003,7,Median family income (All races),Clothing,1941.5941893995007,3141.269414626414
+2003,8,Median family income (All races),Furniture,1600.3982922066068,2589.254867972079
+2003,9,Median family income (All races),Other,9942.768985275196,16086.22248699706
+2004,0,Median family income (All races),Housing,9631.506953386555,15200.891107342602
+2004,1,Median family income (All races),Food,7426.279036827195,11720.498102517504
+2004,2,Median family income (All races),Transportation,5997.018156064898,9464.772272945933
+2004,3,Median family income (All races),Education,1044.9549317537983,1649.196351780135
+2004,4,Median family income (All races),Child Care,151.949266031419,239.81338101740047
+2004,5,Median family income (All races),Insurance,12202.88938964718,19259.16616212907
+2004,6,Median family income (All races),Recreation,3916.092067988669,6180.558180554814
+2004,7,Median family income (All races),Clothing,1952.9204223538504,3082.189612194423
+2004,8,Median family income (All races),Furniture,1670.0759721864538,2635.791378966856
+2004,9,Median family income (All races),Other,10066.31380375998,15887.123450551266
+2005,0,Median family income (All races),Housing,10124.92093798815,15530.6448771169
+2005,1,Median family income (All races),Food,7701.143898335354,11812.806417467951
+2005,2,Median family income (All races),Transportation,6264.269594960285,9608.780857619273
+2005,3,Median family income (All races),Education,1094.0147183291813,1678.1122721621664
+2005,4,Median family income (All races),Child Care,153.0683792321782,234.7920200395344
+2005,5,Median family income (All races),Insurance,12798.702828784732,19631.966485370278
+2005,6,Median family income (All races),Recreation,4065.878823354733,6236.663032300133
+2005,7,Median family income (All races),Clothing,1989.6646586991133,3051.952250102805
+2005,8,Median family income (All races),Furniture,1738.2501021203398,2666.3067503426246
+2005,9,Median family income (All races),Other,10260.086058195937,15737.975037478336
+2006,0,Median family income (All races),Housing,10487.435390239076,15631.50359654535
+2006,1,Median family income (All races),Food,8001.406086899158,11926.081388896437
+2006,2,Median family income (All races),Transportation,6369.436818250609,9493.634127664747
+2006,3,Median family income (All races),Education,1154.7344985079608,1721.1296942322044
+2006,4,Median family income (All races),Child Care,160.9712709690688,239.92739001142152
+2006,5,Median family income (All races),Insurance,13293.631747645528,19814.134222736167
+2006,6,Median family income (All races),Recreation,4266.195144760788,6358.756194194046
+2006,7,Median family income (All races),Clothing,2014.8828196242932,3003.1792206213145
+2006,8,Median family income (All races),Furniture,1785.5489695422214,2661.35752933309
+2006,9,Median family income (All races),Other,10875.757253561298,16210.296635765222
+2007,0,Median family income (All races),Housing,11077.342111510954,16097.8910704601
+2007,1,Median family income (All races),Food,8428.647874324097,12248.737466647324
+2007,2,Median family income (All races),Transportation,6633.432692487242,9639.88254871394
+2007,3,Median family income (All races),Education,1237.5506110134472,1798.4417859202915
+2007,4,Median family income (All races),Child Care,177.6851113322254,258.2167760347872
+2007,5,Median family income (All races),Insurance,14107.684124320764,20501.665472061315
+2007,6,Median family income (All races),Recreation,4499.945954453423,6539.442320055601
+2007,7,Median family income (All races),Clothing,2036.4411034254636,2959.4109060047026
+2007,8,Median family income (All races),Furniture,1784.519071995817,2593.3110438374674
+2007,9,Median family income (All races),Other,11376.751345136568,16533.00061026447
+2008,0,Median family income (All races),Housing,11463.52376194306,16071.666522555086
+2008,1,Median family income (All races),Food,8503.995463520052,11922.457879203585
+2008,2,Median family income (All races),Transportation,6409.74953142178,8986.360485779072
+2008,3,Median family income (All races),Education,1266.1139932874185,1775.07041484135
+2008,4,Median family income (All races),Child Care,179.84504207577191,252.1397086969332
+2008,5,Median family income (All races),Insurance,14279.879981090704,20020.150331096767
+2008,6,Median family income (All races),Recreation,4389.798333008792,6154.423053023542
+2008,7,Median family income (All races),Clothing,1942.748827049488,2723.701013215513
+2008,8,Median family income (All races),Furniture,1618.1707633658348,2268.648054946412
+2008,9,Median family income (All races),Other,11466.174303237098,16075.382536641737
+2009,0,Median family income (All races),Housing,11542.71807678286,16247.014393980598
+2009,1,Median family income (All races),Food,8417.748513883731,11848.4468181775
+2009,2,Median family income (All races),Transportation,5485.632556071457,7721.33136283115
+2009,3,Median family income (All races),Education,1315.4748222109754,1851.603602306612
+2009,4,Median family income (All races),Child Care,184.2755836541061,259.37808063678307
+2009,5,Median family income (All races),Insurance,14296.19005566352,20122.678563954407
+2009,6,Median family income (All races),Recreation,4166.992614054205,5865.272679259521
+2009,7,Median family income (All races),Clothing,1847.08737285944,2599.877683415733
+2009,8,Median family income (All races),Furniture,1447.5411167765185,2037.4942196198688
+2009,9,Median family income (All races),Other,11386.339288043191,16026.902595817826
+2010,0,Median family income (All races),Housing,11436.783573431308,15879.358865899643
+2010,1,Median family income (All races),Food,8351.99715094828,11596.298833089544
+2010,2,Median family income (All races),Transportation,5790.980349808036,8040.464748637851
+2010,3,Median family income (All races),Education,1353.2877776149055,1878.9672928238824
+2010,4,Median family income (All races),Child Care,182.34768411236524,253.1799518452561
+2010,5,Median family income (All races),Insurance,14487.45246122514,20115.04853680064
+2010,6,Median family income (All races),Recreation,4123.665647328878,5725.487960534318
+2010,7,Median family income (All races),Clothing,1858.8860394906328,2580.9632859063163
+2010,8,Median family income (All races),Furniture,1414.5126359420271,1963.9747156406236
+2010,9,Median family income (All races),Other,11240.086680098431,15606.255808821925
+2011,0,Median family income (All races),Housing,11302.179166428712,15220.960002549804
+2011,1,Median family income (All races),Food,8485.463147138054,11427.609955904634
+2011,2,Median family income (All races),Transportation,6310.448001127597,8498.456378097211
+2011,3,Median family income (All races),Education,1359.092405852326,1830.3276602351075
+2011,4,Median family income (All races),Child Care,174.00531477334448,234.3378119737464
+2011,5,Median family income (All races),Insurance,14635.560013560327,19710.116987263216
+2011,6,Median family income (All races),Recreation,4070.997206524024,5482.525514641424
+2011,7,Median family income (All races),Clothing,1895.3210067206244,2552.4816772483264
+2011,8,Median family income (All races),Furniture,1406.8022537360766,1894.579843435612
+2011,9,Median family income (All races),Other,11330.131484138912,15258.604168650912
+2012,0,Median family income (All races),Housing,11350.89139371993,14996.52633845742
+2012,1,Median family income (All races),Food,8738.92550104491,11545.659446512258
+2012,2,Median family income (All races),Transportation,6533.058461100627,8631.320650004893
+2012,3,Median family income (All races),Education,1358.0009636688862,1794.1584068523864
+2012,4,Median family income (All races),Child Care,174.68543760171545,230.7902238751456
+2012,5,Median family income (All races),Insurance,14942.382525132922,19741.51855786761
+2012,6,Median family income (All races),Recreation,4183.695385043471,5527.398321210229
+2012,7,Median family income (All races),Clothing,1944.9431325828616,2569.612368128032
+2012,8,Median family income (All races),Furniture,1430.6673112850551,1890.163448055432
+2012,9,Median family income (All races),Other,11582.749888819622,15302.852239036592
+2013,0,Median family income (All races),Housing,11688.291860554662,15255.949733378302
+2013,1,Median family income (All races),Food,8984.296922973037,11726.605040483451
+2013,2,Median family income (All races),Transportation,6746.355540846416,8805.56904657641
+2013,3,Median family income (All races),Education,1383.59018822323,1805.908221231512
+2013,4,Median family income (All races),Child Care,177.4572157067738,231.62309727944623
+2013,5,Median family income (All races),Insurance,15324.662902488912,20002.26292349305
+2013,6,Median family income (All races),Recreation,4320.527843081539,5639.297545106427
+2013,7,Median family income (All races),Clothing,1985.7936538530605,2591.9243397988084
+2013,8,Median family income (All races),Furniture,1475.5635294781905,1925.9549045053784
+2013,9,Median family income (All races),Other,11733.46034279418,15314.905148147214
+2014,0,Median family income (All races),Housing,12041.718105680684,15498.990615986424
+2014,1,Median family income (All races),Food,9467.408440811996,12185.57628521742
+2014,2,Median family income (All races),Transportation,6987.277278526584,8993.379850014106
+2014,3,Median family income (All races),Education,1420.2863357881838,1828.061776334904
+2014,4,Median family income (All races),Child Care,185.20911789598676,238.3841205276876
+2014,5,Median family income (All races),Insurance,16109.93875674242,20735.22959294957
+2014,6,Median family income (All races),Recreation,4505.10363680002,5798.554523367397
+2014,7,Median family income (All races),Clothing,2068.3134393592964,2662.142586814547
+2014,8,Median family income (All races),Furniture,1545.674373128861,1989.44971093398
+2014,9,Median family income (All races),Other,12299.07051526597,15830.230937853965
+2015,0,Median family income (All races),Housing,12625.953950733478,16261.942952670302
+2015,1,Median family income (All races),Food,10206.83180512884,13146.168375884472
+2015,2,Median family income (All races),Transportation,6916.360464675651,8908.115755493136
+2015,3,Median family income (All races),Education,1502.8489755345788,1935.6354697620757
+2015,4,Median family income (All races),Child Care,200.1629282457045,257.8053217263629
+2015,5,Median family income (All races),Insurance,17457.891407950177,22485.369046788444
+2015,6,Median family income (All races),Recreation,4824.676261836002,6214.073838794714
+2015,7,Median family income (All races),Clothing,2189.299275182359,2819.7679207652845
+2015,8,Median family income (All races),Furniture,1682.7288497002385,2167.3166768557808
+2015,9,Median family income (All races),Other,13093.246081012972,16863.804641259423
+2016,0,Median family income (All races),Housing,12963.329309556511,16550.4863128336
+2016,1,Median family income (All races),Food,10512.81841169012,13421.880527536705
+2016,2,Median family income (All races),Transportation,6871.105109363677,8772.447906783525
+2016,3,Median family income (All races),Education,1544.8273174294752,1972.3053208221452
+2016,4,Median family income (All races),Child Care,211.31683734127748,269.7915281308044
+2016,5,Median family income (All races),Insurance,18057.877290757515,23054.775806643105
+2016,6,Median family income (All races),Recreation,5044.975249568844,6440.999208052205
+2016,7,Median family income (All races),Clothing,2240.40524170594,2860.360591219397
+2016,8,Median family income (All races),Furniture,1748.4828624901577,2232.3155566629257
+2016,9,Median family income (All races),Other,13514.86237009648,17254.637241315584
+2017,0,Median family income (All races),Housing,13428.410801718444,16848.28787447634
+2017,1,Median family income (All races),Food,10991.50299165743,13790.761193641294
+2017,2,Median family income (All races),Transportation,7329.67039626275,9196.352322305962
+2017,3,Median family income (All races),Education,1585.242827538748,1988.9641375808783
+2017,4,Median family income (All races),Child Care,225.09521372431968,282.421279479236
+2017,5,Median family income (All races),Insurance,18961.35343211072,23790.331248505525
+2017,6,Median family income (All races),Recreation,5319.012184979098,6673.630247363819
+2017,7,Median family income (All races),Clothing,2291.7143978018794,2875.356173591824
+2017,8,Median family income (All races),Furniture,1823.7597612031216,2288.22531007945
+2017,9,Median family income (All races),Other,13984.23799300349,17545.67021297567
+2018,0,Median family income (All races),Housing,13881.041967808971,17072.004952907337
+2018,1,Median family income (All races),Food,11317.248440949412,13918.84859113842
+2018,2,Median family income (All races),Transportation,7750.267434462033,9531.892802740143
+2018,3,Median family income (All races),Education,1612.2964342598002,1982.9298675899613
+2018,4,Median family income (All races),Child Care,242.20203076664285,297.87924267078654
+2018,5,Median family income (All races),Insurance,19617.320298868086,24126.93442478716
+2018,6,Median family income (All races),Recreation,5537.633268702112,6810.620039180614
+2018,7,Median family income (All races),Clothing,2310.658510760604,2841.830867716124
+2018,8,Median family income (All races),Furniture,1896.2153956362224,2332.1158959935387
+2018,9,Median family income (All races),Other,14485.116217786115,17814.94331527592
+2019,0,Median family income (All races),Housing,15262.79616691012,18490.679695291645
+2019,1,Median family income (All races),Food,12448.736070257935,15081.482368571991
+2019,2,Median family income (All races),Transportation,8243.537249378236,9986.938511629023
+2019,3,Median family income (All races),Education,1746.812472177572,2116.240665049448
+2019,4,Median family income (All races),Child Care,270.2329343711738,327.38369679660866
+2019,5,Median family income (All races),Insurance,21490.402040707344,26035.343479150157
+2019,6,Median family income (All races),Recreation,6114.469178031193,7407.600143597841
+2019,7,Median family income (All races),Clothing,2467.2151930560485,2988.9992223746103
+2019,8,Median family income (All races),Furniture,2065.5087323376283,2502.337052779687
+2019,9,Median family income (All races),Other,15900.289962772751,19262.99516475899
+2020,0,Median family income (All races),Housing,15930.107903303362,19112.352339232963
+2020,1,Median family income (All races),Food,12006.30914362113,14404.724188908813
+2020,2,Median family income (All races),Transportation,6944.883462591365,8332.21347260517
+2020,3,Median family income (All races),Education,1717.043881913406,2060.0455346726344
+2020,4,Median family income (All races),Child Care,244.96514842966795,293.9000950928559
+2020,5,Median family income (All races),Insurance,20786.540489157986,24938.919946683916
+2020,6,Median family income (All races),Recreation,5727.976264800684,6872.213372825479
+2020,7,Median family income (All races),Clothing,2136.3177661322857,2563.0747828403946
+2020,8,Median family income (All races),Furniture,2258.142437335368,2709.2355027663216
+2020,9,Median family income (All races),Other,16597.713502714745,19913.320764371456
+2021,0,Median family income (All races),Housing,15623.385520880624,17935.41378793949
+2021,1,Median family income (All races),Food,12858.811887852376,14761.724449651052
+2021,2,Median family income (All races),Transportation,8520.053029582097,9780.89392830454
+2021,3,Median family income (All races),Education,1678.4728805444176,1926.8618574485529
+2021,4,Median family income (All races),Child Care,262.7250928399208,301.6044919496551
+2021,5,Median family income (All races),Insurance,21469.094403351133,24646.20048335941
+2021,6,Median family income (All races),Recreation,6412.992838816547,7362.020224716592
+2021,7,Median family income (All races),Clothing,2575.4478382389925,2956.57574386393
+2021,8,Median family income (All races),Furniture,2479.8434931904985,2846.8233802627124
+2021,9,Median family income (All races),Other,16709.173014703392,19181.881652504064
+2022,0,Median family income (All races),Housing,16329.262533611478,17406.729775721476
+2022,1,Median family income (All races),Food,13788.569785109825,14698.392395189308
+2022,2,Median family income (All races),Transportation,9504.06821351686,10131.183011001744
+2022,3,Median family income (All races),Education,1696.3380552631588,1808.2689328718975
+2022,4,Median family income (All races),Child Care,284.01717398398745,302.7577141972705
+2022,5,Median family income (All races),Insurance,21725.641270020547,23159.182235762066
+2022,6,Median family income (All races),Recreation,6729.3614623120975,7173.3904881811
+2022,7,Median family income (All races),Clothing,2590.612030641244,2761.5505279730432
+2022,8,Median family income (All races),Furniture,2496.415011113898,2661.1380285588257
+2022,9,Median family income (All races),Other,17605.714464426906,18767.40689054327
+2023,0,Median family income (All races),Housing,18066.718653013435,18532.7252849364
+2023,1,Median family income (All races),Food,14990.45111412589,15377.109575402948
+2023,2,Median family income (All races),Transportation,9806.509989035292,10059.455683196917
+2023,3,Median family income (All races),Education,1812.1322455351333,1858.873751868381
+2023,4,Median family income (All races),Child Care,319.1234180155736,327.3547760199436
+2023,5,Median family income (All races),Insurance,24011.56981174153,24630.91585847296
+2023,6,Median family income (All races),Recreation,7345.094538088424,7534.551341650229
+2023,7,Median family income (All races),Clothing,2747.510044788047,2818.378359435357
+2023,8,Median family income (All races),Furniture,2568.3429909494694,2634.5899331763408
+2023,9,Median family income (All races),Other,19132.547194707204,19626.04543584053
+2024,0,Median family income (All races),Housing,19162.89402563097,19162.89402563097
+2024,1,Median family income (All races),Food,15466.57998596603,15466.57998596603
+2024,2,Median family income (All races),Transportation,9751.563934254353,9751.563934254353
+2024,3,Median family income (All races),Education,1872.9931012797592,1872.9931012797592
+2024,4,Median family income (All races),Child Care,335.1076288716999,335.1076288716999
+2024,5,Median family income (All races),Insurance,25925.742253132274,25925.742253132274
+2024,6,Median family income (All races),Recreation,7661.568196918286,7661.568196918286
+2024,7,Median family income (All races),Clothing,2819.449609215597,2819.449609215597
+2024,8,Median family income (All races),Furniture,2605.74391577728,2605.74391577728
+2024,9,Median family income (All races),Other,20198.357348953752,20198.357348953752

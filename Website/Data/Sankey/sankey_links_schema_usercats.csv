@@ -1,0 +1,11 @@
+link_order,source_node,target_node,source_label,target_label,color
+0,0,1,Median family income (All races),Housing,#1f77b4
+1,0,2,Median family income (All races),Food,#ff7f0e
+2,0,3,Median family income (All races),Transportation,#2ca02c
+3,0,4,Median family income (All races),Education,#d62728
+4,0,5,Median family income (All races),Child Care,#9467bd
+5,0,6,Median family income (All races),Insurance,#8c564b
+6,0,7,Median family income (All races),Recreation,#e377c2
+7,0,8,Median family income (All races),Clothing,#7f7f7f
+8,0,9,Median family income (All races),Furniture,#bcbd22
+9,0,10,Median family income (All races),Other,#17becf
